@@ -1,0 +1,15 @@
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.deps.json
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.runtimeconfig.json
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.dll
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.pdb
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.csproj.AssemblyReference.cache
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.AssemblyInfoInputs.cache
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.AssemblyInfo.cs
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.csproj.CoreCompileInputs.cache
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.dll
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/refint/SelectionStatementsExercise2.dll
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.pdb
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.genruntimeconfig.cache
+/Users/smylezstudioz/sgrepos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/ref/SelectionStatementsExercise2.dll
